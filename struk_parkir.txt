@@ -1,0 +1,11 @@
+===== STRUK PARKIR =====
+Nama Pemilik    : nopal
+Jenis Kendaraan : jj
+Nomor Kendaraan : 9999
+Lama Parkir     : 28 jam
+Status Parkir   : Parkir Lama
+Total Biaya     : Rp84000
+Metode Bayar    : Tunai
+Status Bayar    : Sudah Bayar
+========================
+
